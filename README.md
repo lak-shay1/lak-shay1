@@ -1,6 +1,6 @@
 👋 Hello, I'm Lakshay Arora!
 
-I'm a passionate second-year Computer Science student at RMIT University with a deep interest in algorithms, software development, and cybersecurity. I love solving complex problems and constantly strive to expand my knowledge and skills through real-world challenges.
+I'm a passionate final-year Computer Science student at RMIT University with a deep interest in algorithms, software development, and cybersecurity. I love solving complex problems and constantly strive to expand my knowledge and skills through real-world challenges.
 
 👀 What I'm Interested In...
 Algorithm Design and Complexity Analysis: Exploring efficient solutions to complex problems.
