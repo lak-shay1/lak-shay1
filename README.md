@@ -1,23 +1,29 @@
-👋 Hello, I'm Lakshay Arora!
+Lakshay Arora
+Software Engineer | Computer Science Graduate
 
-I'm a passionate final-year Computer Science student at RMIT University with a deep interest in algorithms, software development, and cybersecurity. I love solving complex problems and constantly strive to expand my knowledge and skills through real-world challenges.
+I am a Computer Science graduate from RMIT University (2025) with a focus on building high-performance, scalable cloud systems and intelligent data solutions. My work bridges the gap between software engineering, DevOps, and AI.
 
-👀 What I'm Interested In...
-Algorithm Design and Complexity Analysis: Exploring efficient solutions to complex problems.
-Software Development: Building impactful applications using Python, Java, and C++.
-Cybersecurity: Ensuring safe coding practices and secure applications.
-Web Development: Crafting responsive and user-friendly websites.
-🌱 Currently Learning...
-Advanced Data Structures: To optimize performance in software applications.
-Machine Learning and AI Fundamentals: Leveraging AI to solve real-world problems.
-Secure Coding Practices: Enhancing software security and resilience.
-Version Control and Agile Methodologies: Efficient project management and collaboration.
-Looking to Collaborate On...
-Open Source Projects: Especially those related to algorithm optimization, data science, or web development.
-Game Development Projects: Applying C++ expertise to develop fun and challenging games.
-Web Applications: Building innovative solutions with a focus on user experience and security.
-📫 How to Reach Me...
+Technical Focus
+Scalable Infrastructure: Experience managing containerized environments using Kubernetes, Docker, and GitOps workflows.
+Intelligent Systems: Developing data pipelines and applying NLP (BERTopic, VADER) to extract insights from massive datasets.
+System Performance: Writing memory-efficient code in C++, Rust, and Java to optimize system throughput.
+Security & Reliability: Maintaining high code quality through rigorous automated testing and CI/CD orchestration.
+
+Tech Stack
+
+Languages: Python, Java, JavaScript/TypeScript, C++, Rust, Swift.
+Cloud & DevOps: AWS (Lambda, S3, DynamoDB), Kubernetes, Docker, GitHub Actions, FluxCD.
+Web: React.js, Node.js, REST APIs.
+ML/AI: TensorFlow, Keras, Scikit-learn, LLM Prompt Engineering.
+
+Current Objectives
+Agentic AI: Exploring how autonomous agents can improve developer productivity and system resilience.
+Distributed Systems: Deepening my expertise in microservices architecture and cloud-native observability.
+
+Recent Projects
+Cross-Platform NLP Analytics: Scraped and analyzed ~125k data points to identify cross-platform sentiment trends.
+Event Management Platform: A full-stack Spring Boot and React application containerized for Kubernetes deployment.
+AWS Music Streaming: A serverless architecture leveraging Lambda and DynamoDB for high availability.
+
+Connect With Me
 Email: lakshayarora1904@gmail.com
-GitHub: You're already here!
-⚡ Fun Fact:
-I once built a Minecraft Maze Solver using C++! 🎮 It can generate and solve mazes on uneven terrain using optimized algorithms like Recursive Backtracking and Wall Follower.
